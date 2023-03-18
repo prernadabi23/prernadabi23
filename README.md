@@ -3,7 +3,7 @@
         <img src="giphy.gif" alt="" height="200">
     </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%23000&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Prerna+%F0%9F%91%8B;Open-Source+Enthusiast;MERN-Stack+Developer;" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%23E7B10A&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Prerna+%F0%9F%91%8B;Open-Source+Enthusiast;MERN-Stack+Developer;" alt="Headline" />
     </div>
     <div align=center>
         <a href="https://www.linkedin.com/in/prerna-dabi-b19788239/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
