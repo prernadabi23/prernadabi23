@@ -39,7 +39,7 @@
 <a href="https://www.npmjs.com/" target="_blank"><img src="https://img.shields.io/badge/-npm-white?logo=npm&logoColor=CB3837&style=for-the-badge" alt="npm"/></a>
 <a href="https://yarnpkg.com/" target="_blank"><img src="https://img.shields.io/badge/-yarn-white?logo=yarn&logoColor=2C8EBB&style=for-the-badge" alt="yarn"/></a>
 
-<h3>Version Control & CI/CD</h3>
+<h3>Version Control</h3>
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-git-white?logo=git&logoColor=F05032&style=for-the-badge" alt="git"/></a>
 <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/-github-white?logo=github&logoColor=181717&style=for-the-badge" alt="github"/></a>
 <a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/-github_actions*-white?logo=githubactions&logoColor=2088FF&style=for-the-badge" alt="githubactions"/></a>
