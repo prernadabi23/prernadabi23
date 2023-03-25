@@ -67,9 +67,9 @@
 <h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2> 
 <div style="display: flex; align-items: center; justify-content: center;">
 
-[![Prerna's github stats](https://github-readme-stats.vercel.app/api?username=prernadabi23&theme=dark&show_icons=true)](https://github.com/prernadabi23/github-readme-stats)
-<a href="https://github.com/prernadabi23/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prernadabi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=prernadabi23&theme=black-ice&hide_border=true&stroke=0000&background=black"/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prernadabi23&show_icons=true&locale=en&bg_color=000&text_color=ffffff&repo=convoychat"
+    alt="prernadabi23" /></p>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prernadabi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=prernadabi23&theme=black-ice&hide_border=true&stroke=000&background=black"/>
 </a>
 
 </div>
