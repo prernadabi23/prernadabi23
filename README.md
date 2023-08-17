@@ -80,7 +80,7 @@
 </div>
 <!--   
 <img alt="Prerna's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=prernadabi23&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /> -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prernadabi23&bg_color=000000&color=4c839e&line=28d73c&point=00ffd5&area=true&hide_border=true" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=prernadabi23&bg_color=000000&color=4c839e&line=28d73c&point=00ffd5&area=true&hide_border=true" /> -->
 <br>
 <br>
   
